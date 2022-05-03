@@ -39,15 +39,19 @@ segmentações de clientes para a empresa parceira [SPC](https://www.spcbrasil.o
 <h2 align="center">📋 Tabela de conteúdos</h2>
 
 <!--ts-->
-   * [Projeto](#projeto-)
-   * [Desafio](#desafio-)
-   * [Entregas](#entregas-)
-   * [Rodar o sistema](#Rodando-o-Sistema-)
-      * [Pré-requisitos](#pre-requisitos)
-      * [Rodando o Front-End](#Rodando-o-Front-End)
-      * [Rodando o Back-End](#Rodando-o-Back-End)
-   * [Tecnologias](#tecnologias-)
-   * [Licença](#licença-)
+   * [Introdução](#sas---score-analysis-system)
+   * [Features](#-features)
+   * [Demonstração da aplicação](#-demonstração-da-aplicação)
+   * [Projeto](#-projeto)
+   * [Desafio](#-desafio)
+   * [Entregas](#-entregas)
+   * [Rodando o Sistema](#-rodando-o-sistema)
+      * [Pré-requisitos](#-pré-requisitos)
+      * [Rodando o Front-End](#-rodando-o-front-end)
+      * [Rodando o Back-End](#-rodando-o-back-end)
+   * [Tecnologias](#-tecnologias)
+   * [Membros](#-membros)
+   * [Licença](#-licença)
 <!--te-->
 
 <h2 align="center">🚧  Sistema 🚀 Em construção...  🚧</h2>
