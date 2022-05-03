@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://score-analysis-system-front.herokuapp.com/">
-  <img src="https://img.shields.io/static/v1?label=Front-End&message=Clique_para_acessar&color=430098&style=for-the-badge&logo=heroku"/>
+  <img src="https://img.shields.io/static/v1?label=Front-End&message=Clique para acessar&color=430098&style=for-the-badge&logo=heroku"/>
 </a>
 </p>
 
@@ -145,13 +145,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <img src="https://img.shields.io/static/v1?label=Spring_Boot&message=Back-End&color=6DB33F&style=for-the-badge&logo=Spring"/>
 </a>
 <a href="https://www.python.org/">
-  <img src="https://img.shields.io/static/v1?label=Python&message=Análise_de_Dados&color=3776AB&style=for-the-badge&logo=Python"/>
+  <img src="https://img.shields.io/static/v1?label=Python&message=Analise de Dados&color=3776AB&style=for-the-badge&logo=Python"/>
 </a>
 <a href="https://flask.palletsprojects.com/en/2.1.x/">
-  <img src="https://img.shields.io/static/v1?label=Flask&message=Análise_de_Dados&color=000000&style=for-the-badge&logo=Flask"/>
+  <img src="https://img.shields.io/static/v1?label=Flask&message=Analise de Dados&color=000000&style=for-the-badge&logo=Flask"/>
 </a>
 <a href="https://pandas.pydata.org/">
-  <img src="https://img.shields.io/static/v1?label=Pandas&message=Análise_de_Dados&color=150458&style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/static/v1?label=Pandas&message=Analise de Dados&color=150458&style=for-the-badge&logo=pandas"/>
 </a>
 <a href="https://git-scm.com/">
   <img src="https://img.shields.io/static/v1?label=Git&message=DevOps&color=F05032&style=for-the-badge&logo=Git"/>
@@ -163,7 +163,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <img src="https://img.shields.io/static/v1?label=Postman&message=DevOps&color=FF6C37&style=for-the-badge&logo=Postman"/>
 </a>
 <a href="https://www.oracle.com/br/cloud/">
-<img src="https://img.shields.io/static/v1?label=Oracle_Cloud&message=Banco_de_Dados&color=F80000&style=for-the-badge&logo=Oracle"/>
+<img src="https://img.shields.io/static/v1?label=Oracle_Cloud&message=Banco de Dados&color=F80000&style=for-the-badge&logo=Oracle"/>
 </a>
 <a href="https://www.atlassian.com/br/software/jira">
   <img src="https://img.shields.io/static/v1?label=Jira&message=Processo&color=0052CC&style=for-the-badge&logo=Jira Software"/>
@@ -174,7 +174,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <h2 align="center">👥 Membros</h2>
 
-<table>
+<table align="center">
     <tr>
         <td align="center">
             <a href="https://linkedin.com/in/tairik-nishimura/">
