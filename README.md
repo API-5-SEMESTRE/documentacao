@@ -1,11 +1,15 @@
 <p align="center"> <img src="logo/logo.jpeg" alt="Sas" class="center" width=300/> </p>
 
+<h1 align="center">SAS - Score Analysis System</h1>
+
+<p align="center">
+<a href="https://score-analysis-system-front.herokuapp.com/">
+  <img src="https://img.shields.io/static/v1?label=Front-End&message=Clique_para_acessar&color=430098&style=for-the-badge&logo=heroku"/>
+</a>
+</p>
+
 O projeto a ser desenvolvido vai ser um sistema para buscar novas receitas através da criação de novas
 segmentações de clientes para a empresa parceira [SPC](https://www.spcbrasil.org.br/).
-
-<h2 align="center">🚧  Sistema 🚀 Em construção...  🚧</h2>
-
-<p align="center"><a href="https://score-analysis-system-front.herokuapp.com/#/">▶️ ACESSAR SISTEMA</a></p>
 
 <p align="center">Front-End</p>
 <p align="center">
@@ -32,7 +36,23 @@ segmentações de clientes para a empresa parceira [SPC](https://www.spcbrasil.o
   <img alt="Stargazers" src="https://img.shields.io/github/stars/API-5-SEMESTRE/back-end?style=social">
 </p>
 
-<h2 align="center">Features ✅</h2>
+<h2 align="center">📋 Tabela de conteúdos</h2>
+
+<!--ts-->
+   * [Projeto](#projeto-)
+   * [Desafio](#desafio-)
+   * [Entregas](#entregas-)
+   * [Rodar o sistema](#Rodando-o-Sistema-)
+      * [Pré-requisitos](#pre-requisitos)
+      * [Rodando o Front-End](#Rodando-o-Front-End)
+      * [Rodando o Back-End](#Rodando-o-Back-End)
+   * [Tecnologias](#tecnologias-)
+   * [Licença](#licença-)
+<!--te-->
+
+<h2 align="center">🚧  Sistema 🚀 Em construção...  🚧</h2>
+
+<h2 align="center">✅ Features</h2>
 
 - [x] Gestão de usuários
 - [x] Gestão da carteira do vendedor
@@ -41,38 +61,29 @@ segmentações de clientes para a empresa parceira [SPC](https://www.spcbrasil.o
 - [x] Upload CSV da empresa
 - [x] Upload CSV da consumo
 
-<h2 align="center">Tópicos 🏁</h2>
+<h2 align="center">📺 Demonstração da aplicação</h2>
 
-<p align="center">
- <a href="#projeto-">Projeto</a> •
- <a href="#desafio-">Desafio</a> • 
- <a href="#entregas-">Entregas</a> •
- <a href="#Rodando-o-Sistema-">Rodar o sistema</a> •
- <a href="#tecnologias-">Tecnologias</a> •
- <a href="#licença-">Licença</a> • 
-</p>
-
-<h2 align="center">Projeto 🖥</h2>
+<h2 align="center">🖥 Projeto</h2>
 
 Projeto realizado em parceria com a SPC que é organização de gestão e inteligência de dados que entrega soluções de crédito, cobrança, antifraude, marketing e certificação digital juntamente com a Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal.
 
-<h2 align="center">Desafio 📈</h2>
+<h2 align="center">📈 Desafio</h2>
 
 Desafio proposto pela SPC - "Temos um novo desafio na área de vendas que é buscar novas receitas através da criação de novas segmentações de clientes. Para isso precisaremos da criação de novos modelos de dados e indicadores que suportarão as estratégias de vendas (contato com clientes e prospects observando as suas particularidades relacionadas a segmentos, verticais de atuação, consumo e potencial de consumo)."
 
-<h2 align="center">Entregas 💎</h2>
+<h2 align="center">💎 Entregas</h2>
 
 O planejamento e o progresso durante as Sprints do projeto poderá ser visto em [Entregas](https://github.com/API-5-SEMESTRE/documentacao/wiki/Entregas).
 
-<h2 align="center">Rodando o Sistema 🚀</h2>
+<h2 align="center">🚀 Rodando o Sistema</h2>
 
-### Pré-requisitos
+<h3>📑 Pré-requisitos</h3>
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [NPM](https://www.npmjs.com/), [Vue.js](https://vuejs.org/), [Java 11](https://www.java.com/pt-BR/) e [Maven](https://maven.apache.org/).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) ou [IntelliJ](https://www.jetbrains.com/pt-br/idea/).
 
-### 🎲 Rodando o Front-End
+<h3>🎲 Rodando o Front-End</h3>
 
 ```bash
 # Clone este repositório (caso ainda não tenha clonado)
@@ -87,7 +98,7 @@ $ npm run serve
 # O Front-end está rodando localmente, acesse o link do servidor do Vue.js
 ```
 
-### 🎲 Rodando o Back-End
+<h3>🎲 Rodando o Back-End</h3>
 
 ```bash
 # Clone este repositório
@@ -108,7 +119,7 @@ $ git clone https://github.com/API-5-SEMESTRE/back-end
 # O Back-end está rodando e o Banco de Dados na Oracle Cloud está conectado
 ```
 
-<h2 align="center">Tecnologias 🛠</h2>
+<h2 align="center">🛠 Tecnologias</h2>
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -161,7 +172,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <img src="https://img.shields.io/static/v1?label=Heroku&message=Hospedagem&color=430098&style=for-the-badge&logo=Heroku"/>
 </a>
 
-<h2 align="center">Membros 👥</h2>
+<h2 align="center">👥 Membros</h2>
 
 <table>
     <tr>
@@ -242,6 +253,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
     </tr>
 </table>
 
-<h2 align="center">Licença 📝</h2>
+<h2 align="center">📝 Licença</h2>
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
