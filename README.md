@@ -32,6 +32,15 @@ segmentações de clientes para a empresa parceira [SPC](https://www.spcbrasil.o
   <img alt="Stargazers" src="https://img.shields.io/github/stars/API-5-SEMESTRE/back-end?style=social">
 </p>
 
+<h2 align="center">Features ✅</h2>
+
+- [x] Gestão de usuários
+- [x] Gestão da carteira do vendedor
+- [x] Upload CSV da cidade
+- [x] Upload CSV do CNAE
+- [x] Upload CSV da empresa
+- [x] Upload CSV da consumo
+
 <h2 align="center">Tópicos 🏁</h2>
 
 <p align="center">
@@ -53,7 +62,7 @@ Desafio proposto pela SPC - "Temos um novo desafio na área de vendas que é bus
 
 <h2 align="center">Entregas 💎</h2>
 
-O planejamento e o progresso durante as Sprints do projeto poderá ser visto em [Entregas](https://github.com/API-5-SEMESTRE/front-end/wiki/Entregas).
+O planejamento e o progresso durante as Sprints do projeto poderá ser visto em [Entregas](https://github.com/API-5-SEMESTRE/documentacao/wiki/Entregas).
 
 <h2 align="center">Rodando o Sistema 🚀</h2>
 
@@ -106,30 +115,133 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://vuejs.org/">
   <img src="https://img.shields.io/static/v1?label=Vue.js&message=Front-End&color=4FC08D&style=for-the-badge&logo=Vue.js"/>
 </a>
+<a href="https://www.javascript.com/">
+  <img src="https://img.shields.io/static/v1?label=JavaScript&message=Front-End&color=F7DF1E&style=for-the-badge&logo=JavaScript"/>
+</a>
+<a href="https://nodejs.org/en/">
+<img src="https://img.shields.io/static/v1?label=Node.js&message=Front-End&color=339933&style=for-the-badge&logo=Node.js"/>
+</a>
+<a href="https://www.npmjs.com/">
+<img src="https://img.shields.io/static/v1?label=NPM&message=Front-End&color=CB3837&style=for-the-badge&logo=npm"/>
+</a>
+<a href="https://www.java.com/pt-BR/">
+<img src="https://img.shields.io/static/v1?label=Java_11&message=Back-End&color=007396&style=for-the-badge&logo=Java"/>
+</a>
+<a href="https://maven.apache.org/">
+<img src="https://img.shields.io/static/v1?label=Maven&message=Back-End&color=C71A36&style=for-the-badge&logo=Apache Maven"/>
+</a>
+<a href="https://spring.io/projects/spring-boot">
+<img src="https://img.shields.io/static/v1?label=Spring_Boot&message=Back-End&color=6DB33F&style=for-the-badge&logo=Spring"/>
+</a>
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/static/v1?label=Python&message=Análise_de_Dados&color=3776AB&style=for-the-badge&logo=Python"/>
+</a>
+<a href="https://flask.palletsprojects.com/en/2.1.x/">
+  <img src="https://img.shields.io/static/v1?label=Flask&message=Análise_de_Dados&color=000000&style=for-the-badge&logo=Flask"/>
+</a>
+<a href="https://pandas.pydata.org/">
+  <img src="https://img.shields.io/static/v1?label=Pandas&message=Análise_de_Dados&color=150458&style=for-the-badge&logo=pandas"/>
+</a>
 <a href="https://git-scm.com/">
   <img src="https://img.shields.io/static/v1?label=Git&message=DevOps&color=F05032&style=for-the-badge&logo=Git"/>
 </a>
-<a href="https://nodejs.org/en/">
-  <img alt="image" src="https://img.shields.io/badge/Node.js-%23696969?style=for-the-badge&logo=Node.js">
+<a href="https://github.com/">
+  <img src="https://img.shields.io/static/v1?label=GitHub&message=DevOps&color=181717&style=for-the-badge&logo=GitHub"/>
 </a>
-<a href="https://www.npmjs.com/">
-  <img alt="image" src="https://img.shields.io/badge/NPM-%23696969?style=for-the-badge&logo=npm">
-</a>
-<a href="https://www.java.com/pt-BR/">
-  <img alt="image" src="https://img.shields.io/badge/Java_11-%23696969?style=for-the-badge&logo=Java">
+<a href="https://github.com/">
+  <img src="https://img.shields.io/static/v1?label=Postman&message=DevOps&color=FF6C37&style=for-the-badge&logo=Postman"/>
 </a>
 <a href="https://www.oracle.com/br/cloud/">
-  <img alt="image" src="https://img.shields.io/badge/Oracle_Cloud-%23696969?style=for-the-badge&logo=Oracle">
-</a>
-<a href="https://git-scm.com/">
-  <img alt="image" src="https://img.shields.io/badge/Git-%23696969?style=for-the-badge&logo=Git">
-</a>
-<a href="https://maven.apache.org/">
-  <img alt="image" src="https://img.shields.io/badge/Maven-%23696969?style=for-the-badge&logo=Apache Maven">
-</a>
-<a href="https://spring.io/projects/spring-boot">
-  <img alt="image" src="https://img.shields.io/badge/Spring_Boot-%23696969?style=for-the-badge&logo=Spring">
+<img src="https://img.shields.io/static/v1?label=Oracle_Cloud&message=Banco_de_Dados&color=F80000&style=for-the-badge&logo=Oracle"/>
 </a>
 <a href="https://www.atlassian.com/br/software/jira">
   <img src="https://img.shields.io/static/v1?label=Jira&message=Processo&color=0052CC&style=for-the-badge&logo=Jira Software"/>
 </a>
+<a href="https://www.heroku.com/">
+  <img src="https://img.shields.io/static/v1?label=Heroku&message=Hospedagem&color=430098&style=for-the-badge&logo=Heroku"/>
+</a>
+
+<h2 align="center">Membros 👥</h2>
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://linkedin.com/in/tairik-nishimura/">
+                <img style="border-radius: 50%;" src="./fotos/tairik.png" width="150px;" height="150px;" alt="image" />
+                <br />
+                <sub>
+                    <b>Tairik Johnny</b>
+                </sub>
+            </a>
+            <br />
+            <p>Scrum Master</p>
+            <br />
+        </td>
+        <td align="center">
+            <a href="https://www.linkedin.com/in/jeferson-tadeu-das-neves-a98343190/">
+                <img style="border-radius: 50%;" src="./fotos/" width="150px;" height="150px;" alt="image" />
+                <br />
+                <sub>
+                    <b>Jeferson Neves</b>
+                </sub>
+            </a>
+            <br />
+            <p>Product Owner</p>
+            <br />
+        </td>
+        <td align="center">
+            <a href="https://linkedin.com/in/devanir-ramos-junior/">
+                <img style="border-radius: 50%;" src="./fotos/devanir.png" width="150px;" height="150px;" alt="image" />
+                <br />
+                <sub>
+                    <b>Devanir Ramos</b>
+                </sub>
+            </a>
+            <br />
+            <p>Developer</p>
+            <br />
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://www.linkedin.com/in/jos%C3%A9-francisco-forneiro-junior/">
+                <img style="border-radius: 50%;" src="./fotos/jose.png" width="150px;" height="150px;" alt="image" />
+                <br />
+                <sub>
+                    <b>José Francisco</b>
+                </sub>
+            </a>
+            <br />
+            <p>Developer</p>
+            <br />
+        </td>
+        <td align="center">
+            <a href="https://www.linkedin.com/in/gabriel-timoteo-santos/">
+                <img style="border-radius: 50%;" src="./fotos/gabriel.png" width="150px;" height="150px;" alt="image" />
+                <br />
+                <sub>
+                    <b>Gabriel Timoteo</b>
+                </sub>
+            </a>
+            <br />
+            <p>Developer</p>
+            <br />
+        </td>
+        <td align="center">
+            <a href="https://www.linkedin.com/in/alan-bezerra/">
+                <img style="border-radius: 50%;" src="./fotos/alan.png" width="150px;" height="150px;" alt="image" />
+                <br />
+                <sub>
+                    <b>Alan Lucas</b>
+                </sub>
+            </a>
+            <br />
+            <p>Developer</p>
+            <br />
+        </td>
+    </tr>
+</table>
+
+<h2 align="center">Licença 📝</h2>
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
