@@ -127,6 +127,7 @@ $ git clone https://github.com/API-5-SEMESTRE/back-end
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
+<p align="center">
 <a href="https://vuejs.org/">
   <img src="https://img.shields.io/static/v1?label=Vue.js&message=Front-End&color=4FC08D&style=for-the-badge&logo=Vue.js"/>
 </a>
@@ -139,6 +140,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://www.npmjs.com/">
 <img src="https://img.shields.io/static/v1?label=NPM&message=Front-End&color=CB3837&style=for-the-badge&logo=npm"/>
 </a>
+</p>
+<p align="center">
 <a href="https://www.java.com/pt-BR/">
 <img src="https://img.shields.io/static/v1?label=Java_11&message=Back-End&color=007396&style=for-the-badge&logo=Java"/>
 </a>
@@ -151,6 +154,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://www.python.org/">
   <img src="https://img.shields.io/static/v1?label=Python&message=Analise de Dados&color=3776AB&style=for-the-badge&logo=Python"/>
 </a>
+</p>
+<p align="center">
 <a href="https://flask.palletsprojects.com/en/2.1.x/">
   <img src="https://img.shields.io/static/v1?label=Flask&message=Analise de Dados&color=000000&style=for-the-badge&logo=Flask"/>
 </a>
@@ -163,7 +168,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://github.com/">
   <img src="https://img.shields.io/static/v1?label=GitHub&message=DevOps&color=181717&style=for-the-badge&logo=GitHub"/>
 </a>
-<a href="https://github.com/">
+</p>
+<p align="center">
+  <a href="https://www.postman.com/">
   <img src="https://img.shields.io/static/v1?label=Postman&message=DevOps&color=FF6C37&style=for-the-badge&logo=Postman"/>
 </a>
 <a href="https://www.oracle.com/br/cloud/">
@@ -175,6 +182,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://www.heroku.com/">
   <img src="https://img.shields.io/static/v1?label=Heroku&message=Hospedagem&color=430098&style=for-the-badge&logo=Heroku"/>
 </a>
+</p>
 
 <h2 align="center">👥 Membros</h2>
 
