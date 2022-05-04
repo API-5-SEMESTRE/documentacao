@@ -151,11 +151,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://spring.io/projects/spring-boot">
 <img src="https://img.shields.io/static/v1?label=Spring_Boot&message=Back-End&color=6DB33F&style=for-the-badge&logo=Spring"/>
 </a>
-<a href="https://www.python.org/">
-  <img src="https://img.shields.io/static/v1?label=Python&message=Analise de Dados&color=3776AB&style=for-the-badge&logo=Python"/>
-</a>
 </p>
 <p align="center">
+  <a href="https://www.python.org/">
+  <img src="https://img.shields.io/static/v1?label=Python&message=Analise de Dados&color=3776AB&style=for-the-badge&logo=Python"/>
+</a>
 <a href="https://flask.palletsprojects.com/en/2.1.x/">
   <img src="https://img.shields.io/static/v1?label=Flask&message=Analise de Dados&color=000000&style=for-the-badge&logo=Flask"/>
 </a>
@@ -165,18 +165,20 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://git-scm.com/">
   <img src="https://img.shields.io/static/v1?label=Git&message=DevOps&color=F05032&style=for-the-badge&logo=Git"/>
 </a>
-<a href="https://github.com/">
-  <img src="https://img.shields.io/static/v1?label=GitHub&message=DevOps&color=181717&style=for-the-badge&logo=GitHub"/>
-</a>
 </p>
 <p align="center">
+  <a href="https://github.com/">
+  <img src="https://img.shields.io/static/v1?label=GitHub&message=DevOps&color=181717&style=for-the-badge&logo=GitHub"/>
+</a>
   <a href="https://www.postman.com/">
   <img src="https://img.shields.io/static/v1?label=Postman&message=DevOps&color=FF6C37&style=for-the-badge&logo=Postman"/>
 </a>
 <a href="https://www.oracle.com/br/cloud/">
 <img src="https://img.shields.io/static/v1?label=Oracle_Cloud&message=Banco de Dados&color=F80000&style=for-the-badge&logo=Oracle"/>
 </a>
-<a href="https://www.atlassian.com/br/software/jira">
+</p>
+<p align="center">
+  <a href="https://www.atlassian.com/br/software/jira">
   <img src="https://img.shields.io/static/v1?label=Jira&message=Processo&color=0052CC&style=for-the-badge&logo=Jira Software"/>
 </a>
 <a href="https://www.heroku.com/">
