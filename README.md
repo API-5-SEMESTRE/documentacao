@@ -143,13 +143,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 </p>
 <p align="center">
 <a href="https://www.java.com/pt-BR/">
-<img src="https://img.shields.io/static/v1?label=Java_11&message=Back-End&color=007396&style=for-the-badge&logo=Java"/>
+<img src="https://img.shields.io/static/v1?label=Java 11&message=Back-End&color=007396&style=for-the-badge&logo=Java"/>
 </a>
 <a href="https://maven.apache.org/">
 <img src="https://img.shields.io/static/v1?label=Maven&message=Back-End&color=C71A36&style=for-the-badge&logo=Apache Maven"/>
 </a>
 <a href="https://spring.io/projects/spring-boot">
-<img src="https://img.shields.io/static/v1?label=Spring_Boot&message=Back-End&color=6DB33F&style=for-the-badge&logo=Spring"/>
+<img src="https://img.shields.io/static/v1?label=Spring Boot&message=Back-End&color=6DB33F&style=for-the-badge&logo=Spring"/>
 </a>
 </p>
 <p align="center">
@@ -176,7 +176,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 </p>
 <p align="center">
   <a href="https://www.oracle.com/br/cloud/">
-<img src="https://img.shields.io/static/v1?label=Oracle_Cloud&message=Banco de Dados&color=F80000&style=for-the-badge&logo=Oracle"/>
+<img src="https://img.shields.io/static/v1?label=Oracle Cloud&message=Banco de Dados&color=F80000&style=for-the-badge&logo=Oracle"/>
 </a>
   <a href="https://www.atlassian.com/br/software/jira">
   <img src="https://img.shields.io/static/v1?label=Jira&message=Processo&color=0052CC&style=for-the-badge&logo=Jira Software"/>
