@@ -162,22 +162,22 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://pandas.pydata.org/">
   <img src="https://img.shields.io/static/v1?label=Pandas&message=Analise de Dados&color=150458&style=for-the-badge&logo=pandas"/>
 </a>
-<a href="https://git-scm.com/">
-  <img src="https://img.shields.io/static/v1?label=Git&message=DevOps&color=F05032&style=for-the-badge&logo=Git"/>
-</a>
 </p>
 <p align="center">
+  <a href="https://git-scm.com/">
+  <img src="https://img.shields.io/static/v1?label=Git&message=DevOps&color=F05032&style=for-the-badge&logo=Git"/>
+</a>
   <a href="https://github.com/">
   <img src="https://img.shields.io/static/v1?label=GitHub&message=DevOps&color=181717&style=for-the-badge&logo=GitHub"/>
 </a>
   <a href="https://www.postman.com/">
   <img src="https://img.shields.io/static/v1?label=Postman&message=DevOps&color=FF6C37&style=for-the-badge&logo=Postman"/>
 </a>
-<a href="https://www.oracle.com/br/cloud/">
-<img src="https://img.shields.io/static/v1?label=Oracle_Cloud&message=Banco de Dados&color=F80000&style=for-the-badge&logo=Oracle"/>
-</a>
 </p>
 <p align="center">
+  <a href="https://www.oracle.com/br/cloud/">
+<img src="https://img.shields.io/static/v1?label=Oracle_Cloud&message=Banco de Dados&color=F80000&style=for-the-badge&logo=Oracle"/>
+</a>
   <a href="https://www.atlassian.com/br/software/jira">
   <img src="https://img.shields.io/static/v1?label=Jira&message=Processo&color=0052CC&style=for-the-badge&logo=Jira Software"/>
 </a>
