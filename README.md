@@ -67,6 +67,18 @@ segmentações de clientes para a empresa parceira [SPC](https://www.spcbrasil.o
 
 <h2 align="center">📺 Demonstração da aplicação</h2>
 
+<p align="center">Demonstração da tela de Gestão de Usuários</p>
+
+![Alt Text](./videos/tela_usuarios.gif)
+
+<p align="center">Demonstração da tela de Gestão da Carteira/Vendedor</p>
+
+![Alt Text](./videos/tela_carteira_vendedor.gif)
+
+<p align="center">Demonstração das telas de upload de CSV</p>
+
+![Alt Text](./videos/telas_upload_csv.gif)
+
 <h2 align="center">🖥 Projeto</h2>
 
 Projeto realizado em parceria com a SPC que é organização de gestão e inteligência de dados que entrega soluções de crédito, cobrança, antifraude, marketing e certificação digital juntamente com a Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal.
@@ -204,7 +216,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
         </td>
         <td align="center">
             <a href="https://www.linkedin.com/in/jeferson-tadeu-das-neves-a98343190/">
-                <img style="border-radius: 50%;" src="./fotos/" width="150px;" height="150px;" alt="image" />
+                <img style="border-radius: 50%;" src="./fotos/jeferson.jpeg" width="150px;" height="150px;" alt="image" />
                 <br />
                 <sub>
                     <b>Jeferson Neves</b>
