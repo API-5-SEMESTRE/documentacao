@@ -85,7 +85,6 @@ segmentações de clientes para a empresa parceira [SPC](https://www.spcbrasil.o
 
 <p align="center">Demonstração das telas de upload de CSV</p>
 
-![Alt Text](./videos/telas_upload_csv.gif)
 <div align="center">
 
 ![Alt Text](./videos/telas_upload_csv.gif)
