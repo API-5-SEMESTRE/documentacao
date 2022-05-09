@@ -293,4 +293,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <h2 align="center">📝 Licença</h2>
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Todas as informações resultantes da Aprendizagem por Projetos Integrados da Fatec São José dos Campos - Prof. Jessen Vidal seguem a licença Open Source Initiative (OSI) ou Academic Free License 3.0 (AFL-3.0).
