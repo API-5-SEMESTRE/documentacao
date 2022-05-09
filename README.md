@@ -69,15 +69,28 @@ segmentações de clientes para a empresa parceira [SPC](https://www.spcbrasil.o
 
 <p align="center">Demonstração da tela de Gestão de Usuários</p>
 
+<div align="center">
+
 ![Alt Text](./videos/tela_usuarios.gif)
+
+</div>
 
 <p align="center">Demonstração da tela de Gestão da Carteira/Vendedor</p>
 
+<div align="center">
+
 ![Alt Text](./videos/tela_carteira_vendedor.gif)
+
+</div>
 
 <p align="center">Demonstração das telas de upload de CSV</p>
 
 ![Alt Text](./videos/telas_upload_csv.gif)
+<div align="center">
+
+![Alt Text](./videos/telas_upload_csv.gif)
+
+</div>
 
 <h2 align="center">🖥 Projeto</h2>
 
