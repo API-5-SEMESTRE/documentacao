@@ -19,7 +19,7 @@ segmentações de clientes para a empresa parceira [SPC](https://www.spcbrasil.o
 
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/API-5-SEMESTRE/front-end">
     
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <img alt="License" src="https://img.shields.io/badge/license-OSI-brightgreen">
 
    <img alt="Stargazers" src="https://img.shields.io/github/stars/API-5-SEMESTRE/front-end?style=social">
 </p>
@@ -31,7 +31,7 @@ segmentações de clientes para a empresa parceira [SPC](https://www.spcbrasil.o
 
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/API-5-SEMESTRE/back-end">
     
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <img alt="License" src="https://img.shields.io/badge/license-OSI-brightgreen">
  
   <img alt="Stargazers" src="https://img.shields.io/github/stars/API-5-SEMESTRE/back-end?style=social">
 </p>
