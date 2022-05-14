@@ -121,8 +121,8 @@ O planejamento e o progresso durante as Sprints do projeto poderá ser visto em 
 <h3>📑 Pré-requisitos</h3>
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [NPM](https://www.npmjs.com/), [Vue.js](https://vuejs.org/), [Java 11](https://www.java.com/pt-BR/) e [Maven](https://maven.apache.org/).
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) ou [IntelliJ](https://www.jetbrains.com/pt-br/idea/).
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [NPM](https://www.npmjs.com/), [Vue.js](https://vuejs.org/), [Java 11](https://www.java.com/pt-BR/), [Maven](https://maven.apache.org/), [Python](https://www.python.org/) e [PIP](https://pypi.org/project/pip/).
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/), [IntelliJ](https://www.jetbrains.com/pt-br/idea/) ou [PyCharm](https://www.jetbrains.com/pt-br/pycharm/).
 
 <h3>🎲 Rodando o Front-End</h3>
 
