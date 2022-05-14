@@ -114,7 +114,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 <h3>🎲 Rodando o Front-End</h3>
 
 ```bash
-# Clone este repositório (caso ainda não tenha clonado)
+# Clone este repositório
 $ git clone https://github.com/API-5-SEMESTRE/front-end
 
 # Rodar o camando a seguir no terminal para instalar as dependências do NPM
@@ -126,7 +126,7 @@ $ npm run serve
 # O Front-end está rodando localmente, acesse o link do servidor do Vue.js
 ```
 
-<h3>🎲 Rodando o Back-End</h3>
+<h3>🎲 Rodando o Back-End Java</h3>
 
 ```bash
 # Clone este repositório
@@ -145,6 +145,21 @@ $ git clone https://github.com/API-5-SEMESTRE/back-end
 # Rodar o arquivo "ApiBackApplicartion.java" no seu editor de código ou IDE
 
 # O Back-end está rodando e o Banco de Dados na Oracle Cloud está conectado
+```
+
+<h3>🎲 Rodando o Back-End Python</h3>
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/API-5-SEMESTRE/back-end-python
+
+# Rodar o camando a seguir no terminal para instalar as dependências do PIP
+$ pip install -r requirements.txt
+
+# Rodar com o comando a seguir para rodar o Python
+$ python - m flask run ou python3 -m flask run
+
+# O Python está rodando localmente, acesse o link do servidor do Flask
 ```
 
 <h2 align="center">🛠 Tecnologias</h2>
@@ -185,6 +200,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 </a>
 <a href="https://pandas.pydata.org/">
   <img src="https://img.shields.io/static/v1?label=Pandas&message=Analise de Dados&color=150458&style=for-the-badge&logo=pandas"/>
+</a>
+<a href="https://pypi.org/project/pip/">
+  <img src="https://img.shields.io/static/v1?label=PIP&message=Analise de Dados&color=3775A9&style=for-the-badge&logo=PyPI"/>
 </a>
 </p>
 <p align="center">
