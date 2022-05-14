@@ -2,6 +2,8 @@
 
 <h1 align="center">SAS - Score Analysis System</h1>
 
+<h2 align="center">🚧  Sistema 🚀 Em construção...  🚧</h2>
+
 <p align="center">
 <a href="https://score-analysis-system-front.herokuapp.com/">
   <img src="https://img.shields.io/static/v1?label=Front-End&message=Clique para acessar&color=430098&style=for-the-badge&logo=heroku"/>
@@ -66,8 +68,6 @@ segmentações de clientes para a empresa parceira [SPC](https://www.spcbrasil.o
    * [Membros](#-membros)
    * [Licença](#-licença)
 <!--te-->
-
-<h2 align="center">🚧  Sistema 🚀 Em construção...  🚧</h2>
 
 <h2 align="center">✅ Features</h2>
 
