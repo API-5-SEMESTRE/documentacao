@@ -103,6 +103,30 @@ segmentações de clientes para a empresa parceira [SPC](https://www.spcbrasil.o
 
 ![Alt Text](./videos/telas_upload_csv.gif)
 
+<p align="center">Demonstração do gráfico de ranking dos vendedores</p>
+
+<div align="center">
+
+![Alt Text](./videos/tela_ranking_vendedores.gif)
+
+<p align="center">Demonstração da tela de Consumo VS Empresa</p>
+
+<div align="center">
+
+![Alt Text](./videos/tela_consumo_vs_empresa.gif)
+
+<p align="center">Demonstração da tela de Score por Origem</p>
+
+<div align="center">
+
+![Alt Text](./videos/tela_score_origem.gif)
+
+<p align="center">Demonstração da tela de Score por Região</p>
+
+<div align="center">
+
+![Alt Text](./videos/tela_score_regiao.gif)
+
 </div>
 
 <h2 align="center">🖥 Projeto</h2>
