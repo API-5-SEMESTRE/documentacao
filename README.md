@@ -78,6 +78,11 @@ segmentações de clientes para a empresa parceira [SPC](https://www.spcbrasil.o
 - [x] Upload CSV do CNAE
 - [x] Upload CSV da empresa
 - [x] Upload CSV da consumo
+- [X] Relatórios
+  - [x] Gráfico de ranking dos melhores vendedores
+  - [X] Gráfico de Consumo VS Empresa
+  - [X] Gráfico de Score por Origem
+  - [X] Gráfico de Score por Região
 
 <h2 align="center">📺 Demonstração da aplicação</h2>
 
