@@ -3,6 +3,7 @@
 #### CI/CD do grupo TheVelopers
 
 ##### Versionamento
+
     - Foi utilizado o GitHub como ferramenta de versionamento
     - Dividimos o projeto em 4 branchs
         - main: a branch de produção
@@ -11,6 +12,7 @@
         - feature: a branch para desenvolvimento de novas features e bugfixs planejados, push para dev e pull da dev (é aconselhável sempre manter a feature atualizada para diminuir futuros conflitos na hora do merge com a dev), deve rodar todos os testes para manter a qualidade
 
 ##### Workflow 
+
     - Utilizamos a ferramenta Actions do GitHub para o CI/CD (Continuous Integration e Continuous Delivery)
 
 <details>
@@ -18,7 +20,7 @@
 
 ```yaml
 
-    name: CI Main
+name: CI Main
 
 on:
     push:
@@ -69,7 +71,7 @@ jobs:
 
 ```yaml
 
-    name: CI Dev
+ name: CI Dev
 
 on:
     push:
@@ -113,13 +115,17 @@ jobs:
 </details>
 
 ##### Unit Test
+
     - Para os testes unitários utilizamos o próprio Maven, no próprio Gitflow (dev, feature e hotfix) rodamos os testes.
 
 ##### Integration Test
+
     - Para o teste de integração entre frontend e backend utilizamos o selenium e novamente o Maven para rodá-lo no Gitflow (dev, feature e hotfix)
 
 ##### Migration
+
     - Para migração do banco de dados, ou seja, atualizações de novas versões do banco de dados, utilizamos o flyway, ferramenta já consolidade no mercado de trabalho
 
 ##### Documentação
+
     - Para documentação dos end-points foi utilizado o swagger
