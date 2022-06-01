@@ -113,10 +113,15 @@ jobs:
 </details>
 
 ##### Unit Test
-- Para os testes unitários utilizamos o próprio Maven, no próprio Gitflow (dev, feature e hotfix) rodamos os testes.
+- Para os testes unitários utilizamos o próprio Maven e no próprio Gitflow (dev, feature e hotfix) rodamos os testes.
+
+```shell
+mvn test
+
+```
 
 ##### Integration Test
-- Para o teste de integração entre frontend e backend utilizamos o selenium e novamente o Maven para rodá-lo no Gitflow (dev, feature e hotfix)
+- Para o teste de integração entre frontend e backend utilizamos o selenium e novamente o Maven para roda-lo no Gitflow (dev, feature e hotfix)
 
 ##### Migration
 - Para migração do banco de dados, ou seja, atualizações de novas versões do banco de dados, utilizamos o flyway, ferramenta já consolidade no mercado de trabalho
