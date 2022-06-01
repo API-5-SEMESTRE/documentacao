@@ -115,8 +115,8 @@ jobs:
 ##### Unit Test
 - Para os testes unitários utilizamos o próprio Maven e no próprio Gitflow (dev, feature e hotfix) rodamos os testes.
 
-```shell
-mvn test
+```terminal
+# mvn test
 
 ```
 
@@ -125,6 +125,12 @@ mvn test
 
 ##### Migration
 - Para migração do banco de dados, ou seja, atualizações de novas versões do banco de dados, utilizamos o flyway, ferramenta já consolidade no mercado de trabalho
+├── src
+├   ├── main
+├   ├    ├── resources
+├   ├    ├    ├── db
+├   ├    ├    ├    ├── migration
+├   ├    ├    ├    ├    ├── V1_...
 
 ##### Documentação
 - Para documentação dos end-points foi utilizado o swagger
