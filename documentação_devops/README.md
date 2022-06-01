@@ -115,9 +115,9 @@ jobs:
 ##### Unit Test
 - Para os testes unitários utilizamos o próprio Maven e no próprio Gitflow (dev, feature e hotfix) rodamos os testes.
 
-```terminal
-# mvn test
-
+```yaml
+- name: Step 4 - unit/integration test
+        run: mvn test
 ```
 
 ##### Integration Test
