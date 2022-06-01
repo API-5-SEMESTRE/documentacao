@@ -4,7 +4,7 @@
 
 ##### Versionamento
 - Foi utilizado o GitHub como ferramenta de versionamento
-- Dividimos o projeto em 4 branchs
+- Dividimos o projeto em 4 branches
   - main: a branch de produção
   - hotfix: a branch destinada a correções de emergência, push somente para main e pull somente para a main, deve rodar todos os testes para manter a qualidade
   - dev: a branch para desenvolvimento, push para main, deve rodar todos os testes para manter a qualidade, também utilizamos a dev para um ambiente de testes, após os testes unitários e de integração pushamos ela para a Heroku
