@@ -125,13 +125,21 @@ jobs:
 
 ##### Migration
 - Para migração do banco de dados, ou seja, atualizações de novas versões do banco de dados, utilizamos o flyway, ferramenta já consolidade no mercado de trabalho
-.
-├── src
-├   ├── main
-├   ├    ├── resources
-├   ├    ├    ├── db
-├   ├    ├    ├    ├── migration
-├   ├    ├    ├    ├    ├── V1_...
+
+<details>
+  <summary>Estrutura do migration</summary>
+      .
+    ├── src                    
+    │   ├── main
+    │   │     ├── resources
+    │   │     │   ├── db
+    │   │     │   │   ├── migration
+    │   │     │   │   │    ├── V1_database_modification
+    │   │     │   │   │    │
+    │   │     │   │   │    │
+    └── ...
+    
+</details>
 
 ##### Documentação
 - Para documentação dos end-points foi utilizado o swagger
