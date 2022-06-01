@@ -1,8 +1,8 @@
-# DevOps!
+### DevOps!
 
-## CI/CD do grupo TheVelopers
+#### CI/CD do grupo TheVelopers
 
-### Versionamento
+##### Versionamento
     - Foi utilizado o GitHub como ferramenta de versionamento
     - Dividimos o projeto em 4 branchs
         - main: a branch de produção
@@ -10,7 +10,7 @@
         - dev: a branch para desenvolvimento, push para main, deve rodar todos os testes para manter a qualidade, também utilizamos a dev para um ambiente de testes, após os testes unitários e de integração pushamos ela para a Heroku
         - feature: a branch para desenvolvimento de novas features e bugfixs planejados, push para dev e pull da dev (é aconselhável sempre manter a feature atualizada para diminuir futuros conflitos na hora do merge com a dev), deve rodar todos os testes para manter a qualidade
 
-### Workflow 
+##### Workflow 
     - Utilizamos a ferramenta Actions do GitHub para o CI/CD (Continuous Integration e Continuous Delivery)
 
 <details>
@@ -112,14 +112,14 @@ jobs:
 ```
 </details>
 
-### Unit Test
+##### Unit Test
     - Para os testes unitários utilizamos o próprio Maven, no próprio Gitflow (dev, feature e hotfix) rodamos os testes.
 
-### Integration Test
+##### Integration Test
     - Para o teste de integração entre frontend e backend utilizamos o selenium e novamente o Maven para rodá-lo no Gitflow (dev, feature e hotfix)
 
-### Migration
+##### Migration
     - Para migração do banco de dados, ou seja, atualizações de novas versões do banco de dados, utilizamos o flyway, ferramenta já consolidade no mercado de trabalho
 
-### Documentação
+##### Documentação
     - Para documentação dos end-points foi utilizado o swagger
