@@ -1,4 +1,5 @@
-### DevOps!
+<h2 align="center"><img src="https://raw.githubusercontent.com/github/explore/3002c1497202fcd179aa4c64194ea859dfd49820/topics/devops/devops.png"></h2>
+
 
 #### CI/CD do grupo TheVelopers
 
@@ -11,7 +12,7 @@
   - feature: a branch para desenvolvimento de novas features e bugfixs planejados, push para dev e pull da dev (é aconselhável sempre manter a feature atualizada para diminuir futuros conflitos na hora do merge com a dev), deve rodar todos os testes para manter a qualidade
 
 ##### Workflow 
-- Utilizamos a ferramenta Actions do GitHub para o CI/CD (Continuous Integration e Continuous Delivery)
+- Utilizamos a ferramenta <a href="https://docs.github.com/pt/actions">Actions</a> do GitHub para o CI/CD (Continuous Integration e Continuous Delivery)
 
 <details>
 <summary>Gitflow para a branch main</summary>
@@ -141,3 +142,29 @@ jobs:
 
 ##### Documentação
 - Para documentação dos end-points foi utilizado o swagger
+
+
+<h2 align="center">🛠 Tecnologias</h2>
+
+As seguintes ferramentas foram usadas na construção do DevOps:
+
+<div style="display: flex;" align="center">
+<a href="https://maven.apache.org/">
+  <img src="https://img.shields.io/static/v1?label=GitHub&message=Versioning&color=black&style=for-the-badge&logo=Github"/>
+</a>  
+<a href="https://maven.apache.org/">
+  <img src="https://img.shields.io/static/v1?label=Maven&message=Build&color=darkgray&style=for-the-badge&logo=ApacheMaven"/>
+</a>
+<a href="https://www.selenium.dev/">
+  <img src="https://img.shields.io/static/v1?label=Selenium&message=Integration Test&color=F7DF1E&style=for-the-badge&logo=selenium"/>
+</a>
+<a href="https://flywaydb.org/">
+<img src="https://img.shields.io/static/v1?label=Flyway&message=Migration&color=339933&style=for-the-badge&logo=Flyway"/>
+</a>
+<a href="https://www.docker.com/">
+<img src="https://img.shields.io/static/v1?label=docker&message=Deploy&color=blue&style=for-the-badge&logo=docker"/>
+</a>
+<a href="https://www.heroku.com/">
+  <img src="https://img.shields.io/static/v1?label=Heroku&message=hosting&color=430098&style=for-the-badge&logo=Heroku"/>
+</a>
+</div>
