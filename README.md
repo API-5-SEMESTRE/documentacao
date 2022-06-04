@@ -81,8 +81,9 @@ segmentações de clientes para a empresa parceira [SPC](https://www.spcbrasil.o
 - [X] Relatórios
   - [x] Gráfico de ranking dos melhores vendedores
   - [X] Gráfico de Consumo VS Empresa
-  - [X] Gráfico de Score por Origem
-  - [X] Gráfico de Score por Região
+  - [X] Gráfico de Score com filtros
+  - [X] Gráfico de Consumo por vendedor
+  - [X] Power BI
 
 <h2 align="center">📺 Demonstração da aplicação</h2>
 
@@ -98,7 +99,7 @@ segmentações de clientes para a empresa parceira [SPC](https://www.spcbrasil.o
 
 <div align="center">
 
-![Alt Text](./videos/tela_carteira_vendedor.gif)
+![Alt Text](./videos/tela_carteira_vendedor2.gif)
 
 </div>
 
@@ -126,19 +127,11 @@ segmentações de clientes para a empresa parceira [SPC](https://www.spcbrasil.o
 
 </div>
 
-<p align="center">Demonstração da tela de Score por Origem</p>
+<p align="center">Demonstração da tela de Score</p>
 
 <div align="center">
 
-![Alt Text](./videos/tela_score_origem.gif)
-
-</div>
-
-<p align="center">Demonstração da tela de Score por Região</p>
-
-<div align="center">
-
-![Alt Text](./videos/tela_score_regiao.gif)
+![Alt Text](./videos/tela_score_filtro.gif)
 
 </div>
 
