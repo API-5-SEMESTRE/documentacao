@@ -2,7 +2,7 @@
 
 <h1 align="center">SAS - Score Analysis System</h1>
 
-<h2 align="center">🚧  Sistema 🚀 Em construção...  🚧</h2>
+<h2 align="center">🚧  Sistema  🚀  Finalizado  🚧</h2>
 
 <p align="center">
 <a href="https://score-analysis-system-front.herokuapp.com/">
@@ -320,18 +320,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
                 <br />
                 <sub>
                     <b>José Francisco</b>
-                </sub>
-            </a>
-            <br />
-            <p>Developer</p>
-            <br />
-        </td>
-        <td align="center">
-            <a href="https://www.linkedin.com/in/gabriel-timoteo-santos/">
-                <img style="border-radius: 50%;" src="./fotos/gabriel.png" width="150px;" height="150px;" alt="image" />
-                <br />
-                <sub>
-                    <b>Gabriel Timoteo</b>
                 </sub>
             </a>
             <br />
